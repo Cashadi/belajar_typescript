@@ -1,0 +1,5 @@
+const
+Nilainya tidak akan ditetapkan ulang.
+
+let
+Nilainya mungkin perlu ditetapkan ulang.
