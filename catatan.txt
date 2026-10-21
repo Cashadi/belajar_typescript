@@ -5,3 +5,5 @@ let
 Nilainya mungkin perlu ditetapkan ulang.
 
 Tips profesional: Biasakan menggunakan const secara default. Gunakan let hanya ketika variabel memang perlu diperbarui. Kebiasaan ini membuat kode lebih mudah dipahami dan mengurangi kesalahan.
+
+perbedaan javascript dan TypeScript adalah typescript memeriksa tipe data sebelum program dijalankan
