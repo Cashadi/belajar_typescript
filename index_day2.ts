@@ -14,3 +14,10 @@ console.log(`Saldo awal: ${balance}`);
 balance = 250;
 
 console.log(`Saldo setelah update: ${balance}`);
+
+console.log("=== Latihan day2 ===");
+const coinName: string = "Solana";
+let price: number = 100;
+const isWalletConnected: boolean = true;
+
+price = 120;
