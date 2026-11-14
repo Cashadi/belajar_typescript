@@ -10,6 +10,6 @@ const reward: number = 25;
 const price: number = 100;
 const fee: number = 5;
 
-const total: number = price + fee;
+const total: number = price - fee;
 
 console.log(total);
