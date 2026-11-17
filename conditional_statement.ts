@@ -1,16 +1,11 @@
-const balance: number = 30;
+const balance: number = 100;
+const amount: number = 80;
+const fee: number = 10;
 
-if (balance >= 50) {
-    console.log("Transaksi berhasil");
+const totalCost: number = amount + fee;
+
+if (balance >= totalCost) {
+    console.log("Transaction approved");
 } else {
-    console.log("Saldo tidak cukup");
+    console.log("Transaction rejected");
 }
-
-// if (balance >= 1000) {
-//     console.log("Rich Wallet");
-// } else if (balance >= 500) {
-//     console.log("Medium Wallet");
-// } else {
-//     console.log("Small Wallet");
-// }
-
